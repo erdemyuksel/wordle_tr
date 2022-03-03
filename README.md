@@ -1,6 +1,6 @@
 # wordle_tr
 
-A new Flutter project.
+webview_flutter pluginini kullanarak son günlerde popüler olan Wordle oyununun basit bir uygulamasını oluşturdum. Bu uygulamaya bir adet açılış ekranı eklemeyi de ihmal etmedim.
 
 ## Getting Started
 
